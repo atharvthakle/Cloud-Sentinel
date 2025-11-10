@@ -6,23 +6,23 @@ CloudSentinel is a real-time cloud infrastructure monitoring system that leverag
 
 ## Preview
 
-![Image](<img width="1919" height="1134" alt="Image" src="https://github.com/user-attachments/assets/892c1ecb-6d62-412e-a19d-a453eb790767" />)
+![Image](https://github.com/user-attachments/assets/892c1ecb-6d62-412e-a19d-a453eb790767)
 
-![Image](<img width="1919" height="1134" alt="Image" src="https://github.com/user-attachments/assets/96066572-4a04-4a1f-b906-a49683e5ca35" />)
+![Image](https://github.com/user-attachments/assets/96066572-4a04-4a1f-b906-a49683e5ca35)
 
-![Image](<img width="1919" height="1134" alt="Image" src="https://github.com/user-attachments/assets/d50891ec-b2b4-4217-a387-160f401d9310" />)
+![Image](https://github.com/user-attachments/assets/d50891ec-b2b4-4217-a387-160f401d9310)
 
-![Image](<img width="1919" height="1140" alt="Image" src="https://github.com/user-attachments/assets/72aa6b85-7438-4db3-8efb-f89a849d6420" />)
+![Image](https://github.com/user-attachments/assets/72aa6b85-7438-4db3-8efb-f89a849d6420)
 
-![Image](<img width="1919" height="1137" alt="Image" src="https://github.com/user-attachments/assets/244d0e9f-749f-4f12-bbe4-b438ccdfbc93" />)
+![Image](https://github.com/user-attachments/assets/244d0e9f-749f-4f12-bbe4-b438ccdfbc93)
 
-![Image](<img width="1919" height="1140" alt="Image" src="https://github.com/user-attachments/assets/4e8b67a7-184b-40d4-8019-73f32af1d558" />)
+![Image](https://github.com/user-attachments/assets/4e8b67a7-184b-40d4-8019-73f32af1d558)
 
-![Image](<img width="1919" height="1137" alt="Image" src="https://github.com/user-attachments/assets/5bb890ec-bd45-4805-ad39-45497dae5906" />)
+![Image](https://github.com/user-attachments/assets/5bb890ec-bd45-4805-ad39-45497dae5906)
 
-![Image](<img width="1919" height="1039" alt="Image" src="https://github.com/user-attachments/assets/5e86a2b7-1fdf-45f1-a842-8f6d31b8c9d2" />)
+![Image](https://github.com/user-attachments/assets/5e86a2b7-1fdf-45f1-a842-8f6d31b8c9d2)
 
-![Image](<img width="1917" height="1035" alt="Image" src="https://github.com/user-attachments/assets/8ae358b9-ae40-44cc-86b2-5401f260f041" />)
+![Image](https://github.com/user-attachments/assets/8ae358b9-ae40-44cc-86b2-5401f260f041)
 
 ![Image]()
 
