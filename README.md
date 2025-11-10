@@ -24,8 +24,6 @@ CloudSentinel is a real-time cloud infrastructure monitoring system that leverag
 
 ![Image](https://github.com/user-attachments/assets/5e86a2b7-1fdf-45f1-a842-8f6d31b8c9d2)
 
-![Image]()
-
 ## Features
 
 - **Real-time AWS Integration** - Fetches live metrics from EC2 instances via CloudWatch API
