@@ -151,7 +151,7 @@ Open your browser and navigate to `http://localhost:3000`
 2. View detected anomalies in the dashboard
 3. Red alerts show suspicious activity (high CPU, memory spikes, unusual network traffic)
 
-## 🔧 Configuration
+## Configuration
 
 ### Backend (`config.py`)
 ```python
