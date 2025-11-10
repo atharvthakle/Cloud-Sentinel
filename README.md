@@ -12,11 +12,11 @@ CloudSentinel is a real-time cloud infrastructure monitoring system that leverag
 
 ![Image](https://github.com/user-attachments/assets/d50891ec-b2b4-4217-a387-160f401d9310)
 
-![Image](https://github.com/user-attachments/assets/244d0e9f-749f-4f12-bbe4-b438ccdfbc93)
+![Image](https://github.com/user-attachments/assets/5bb890ec-bd45-4805-ad39-45497dae5906)
 
 ![Image](https://github.com/user-attachments/assets/4e8b67a7-184b-40d4-8019-73f32af1d558)
 
-![Image](https://github.com/user-attachments/assets/5bb890ec-bd45-4805-ad39-45497dae5906)
+![Image](https://github.com/user-attachments/assets/244d0e9f-749f-4f12-bbe4-b438ccdfbc93)
 
 ![Image](https://github.com/user-attachments/assets/72aa6b85-7438-4db3-8efb-f89a849d6420)
 
